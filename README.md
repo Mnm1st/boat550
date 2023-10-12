@@ -1,1 +1,1 @@
-# boat550
+# Boat Rockerz 550 bash script for bluetoothctl connection
